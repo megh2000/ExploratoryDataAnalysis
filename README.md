@@ -1,3 +1,3 @@
 # Exploratory Data Analysis
 
-This code performs Exploratory Data Analysis(EDA) performed on Titanic dataset
+This code performs Exploratory Data Analysis(EDA) on Titanic dataset
